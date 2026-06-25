@@ -91,6 +91,12 @@ A complete end-to-end Retrieval-Augmented Generation system that answers legal q
 - Streamlit chat interface + Plotly analytics dashboard + automated integration test suite
 - Live Vercel deployment with Git-integrated CI/CD
 
+| Service | URL |
+|---|---|
+| 🌐 Frontend | [aws-submission-1-uxpa7cch2fm32cwexhosrv.streamlit.app](https://aws-submission-1-uxpa7cch2fm32cwexhosrv.streamlit.app) |
+| ⚙️ Backend API | [aws-rag-backend.onrender.com](https://aws-rag-backend.onrender.com) |
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://aws-submission-1-uxpa7cch2fm32cwexhosrv.streamlit.app)
 [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sid145V/aws-submission-1.git)
 
 ---
